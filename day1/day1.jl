@@ -14,4 +14,6 @@ open(joinpath(@__DIR__, "aoc2022_day1.txt")) do f
 end
 
 println(maximum(arr))
+sort!(arr; rev=true)
+println(arr[1:3] |> sum)
 
