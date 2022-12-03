@@ -16,7 +16,7 @@ I could have used structs for this one to create an hierarchy of types so I coul
 
 But because I have not studied very well about Julia's type system, I realize I didn't use the language most powerful feature, **Multiple Dispatch**. 
 
-Solutions from [Lazaro](https://github.com/lazarusA/AdventOfCode2022/blob/master/src/day2.jl) and [Dnonimn](https://gist.github.com/dzonimn/6f015f0294c1c3e97f931ed71a09d48b) helped me realize how powerful they are and its not even using its full power.
+Solutions from [Lazaro](https://github.com/lazarusA/AdventOfCode2022/blob/master/src/day2.jl) and [Dzonimn](https://gist.github.com/dzonimn/6f015f0294c1c3e97f931ed71a09d48b) helped me realize how powerful they are and its not even using its full power.
 
 ## Day 3
 
