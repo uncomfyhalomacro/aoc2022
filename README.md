@@ -9,3 +9,6 @@
 - Day 3:
   - [x] Part 1 :star:
   - [x] Part 2 :star2:
+- Day 4:
+  - [x] Part 1 :star:
+  - [x] Part 2 :star2:
